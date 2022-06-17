@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9355ca09-fcc4-4c6a-8012-abe2e9cea2ea": {
+      "ProjectGuid": "9355ca09-fcc4-4c6a-8012-abe2e9cea2ea",
+      "DisplayName": "求两个数的最大公约数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

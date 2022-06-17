@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1eddbcc1-5619-4c9f-932e-847b25f5879c": {
+      "ProjectGuid": "1eddbcc1-5619-4c9f-932e-847b25f5879c",
+      "DisplayName": "不允许创建临时变量，交换两个数的内容",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

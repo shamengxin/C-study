@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13b0c340-a0d6-4b9d-ace0-4810643f050e": {
+      "ProjectGuid": "13b0c340-a0d6-4b9d-ace0-4810643f050e",
+      "DisplayName": "打印乘法口诀表",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
