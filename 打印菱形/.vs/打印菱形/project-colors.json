@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "886dc5a6-8097-4d97-a8a4-acb29e7db883": {
+      "ProjectGuid": "886dc5a6-8097-4d97-a8a4-acb29e7db883",
+      "DisplayName": "打印菱形",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
