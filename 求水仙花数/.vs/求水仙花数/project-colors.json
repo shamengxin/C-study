@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ece38c8-7e78-4ec2-b9c1-0f061f4d8a28": {
+      "ProjectGuid": "1ece38c8-7e78-4ec2-b9c1-0f061f4d8a28",
+      "DisplayName": "求水仙花数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

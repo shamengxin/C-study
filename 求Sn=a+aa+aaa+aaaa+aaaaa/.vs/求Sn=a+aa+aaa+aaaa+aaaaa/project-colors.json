@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc7e1f62-088c-4f3b-847c-53ef03d5d2d9": {
+      "ProjectGuid": "dc7e1f62-088c-4f3b-847c-53ef03d5d2d9",
+      "DisplayName": "求Sn=a+aa+aaa+aaaa+aaaaa",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
