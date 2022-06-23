@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8edb7b23-f528-4ff0-a8f9-c7fe28a55f8b": {
+      "ProjectGuid": "8edb7b23-f528-4ff0-a8f9-c7fe28a55f8b",
+      "DisplayName": "完成猜数字游戏",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
