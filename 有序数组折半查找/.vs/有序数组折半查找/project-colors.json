@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca367b5e-322d-4185-8572-afb66505f3c2": {
+      "ProjectGuid": "ca367b5e-322d-4185-8572-afb66505f3c2",
+      "DisplayName": "有序数组折半查找",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

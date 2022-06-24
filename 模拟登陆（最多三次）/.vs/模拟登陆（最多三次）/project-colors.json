@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3f777e9-eff7-43f5-9043-fe64b96fdbc7": {
+      "ProjectGuid": "f3f777e9-eff7-43f5-9043-fe64b96fdbc7",
+      "DisplayName": "模拟登陆（最多三次）",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

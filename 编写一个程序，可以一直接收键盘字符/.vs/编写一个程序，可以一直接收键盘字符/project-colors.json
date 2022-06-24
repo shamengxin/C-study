@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f060dca-20c7-482e-a9ff-179c340b3afa": {
+      "ProjectGuid": "8f060dca-20c7-482e-a9ff-179c340b3afa",
+      "DisplayName": "编写一个程序，可以一直接收键盘字符",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
