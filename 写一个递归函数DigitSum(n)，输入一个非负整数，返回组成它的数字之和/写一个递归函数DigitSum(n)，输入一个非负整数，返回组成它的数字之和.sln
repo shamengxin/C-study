@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "写一个递归函数DigitSum(n)，输入一个非负整数，返回组成它的数字之和", "写一个递归函数DigitSum(n)，输入一个非负整数，返回组成它的数字之和.vcxproj", "{1868D428-6038-48B6-A873-CEC2B0DA83DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Debug|x64.ActiveCfg = Debug|x64
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Debug|x64.Build.0 = Debug|x64
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Debug|x86.Build.0 = Debug|Win32
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Release|x64.ActiveCfg = Release|x64
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Release|x64.Build.0 = Release|x64
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Release|x86.ActiveCfg = Release|Win32
+		{1868D428-6038-48B6-A873-CEC2B0DA83DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CF7CB3-2F14-4AC7-A2EA-0B59AB76E14B}
+	EndGlobalSection
+EndGlobal
