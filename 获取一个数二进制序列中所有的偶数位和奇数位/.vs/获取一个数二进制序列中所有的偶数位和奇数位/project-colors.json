@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4467e1e-22e6-4a70-ad52-e9bcb3a7a7b0": {
+      "ProjectGuid": "c4467e1e-22e6-4a70-ad52-e9bcb3a7a7b0",
+      "DisplayName": "获取一个数二进制序列中所有的偶数位和奇数位",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
