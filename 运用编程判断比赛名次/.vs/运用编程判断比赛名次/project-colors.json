@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9a8b20a-b709-46ef-837a-f9bc54062af6": {
+      "ProjectGuid": "a9a8b20a-b709-46ef-837a-f9bc54062af6",
+      "DisplayName": "运用编程判断比赛名次",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
