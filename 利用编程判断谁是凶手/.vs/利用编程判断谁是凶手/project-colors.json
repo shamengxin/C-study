@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bbee836-1c3c-43c6-8c6a-56f194a59975": {
+      "ProjectGuid": "2bbee836-1c3c-43c6-8c6a-56f194a59975",
+      "DisplayName": "利用编程判断谁是凶手",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
