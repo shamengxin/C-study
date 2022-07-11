@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4199066e-d82a-443e-a266-f032f0fdc542": {
+      "ProjectGuid": "4199066e-d82a-443e-a266-f032f0fdc542",
+      "DisplayName": "打印杨辉三角",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
