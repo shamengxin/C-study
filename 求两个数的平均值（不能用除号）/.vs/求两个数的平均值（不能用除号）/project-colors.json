@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55bb0123-5641-4f60-b515-acd50c31b262": {
+      "ProjectGuid": "55bb0123-5641-4f60-b515-acd50c31b262",
+      "DisplayName": "求两个数的平均值（不能用除号）",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
