@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "494404d9-e8f0-41ea-8478-cf5a782108ce": {
+      "ProjectGuid": "494404d9-e8f0-41ea-8478-cf5a782108ce",
+      "DisplayName": "将字符数组内容倒置",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
