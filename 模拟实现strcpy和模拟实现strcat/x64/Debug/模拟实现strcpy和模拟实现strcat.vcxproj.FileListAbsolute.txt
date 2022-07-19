@@ -1,0 +1,1 @@
+D:\编程\模拟实现strcpy和模拟实现strcat\x64\Debug\模拟实现strcpy和模拟实现strcat.exe

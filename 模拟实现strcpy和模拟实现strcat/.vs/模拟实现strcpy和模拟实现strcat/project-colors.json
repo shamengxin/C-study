@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b269bd0-1bf0-4ea2-b774-707c467091e7": {
+      "ProjectGuid": "3b269bd0-1bf0-4ea2-b774-707c467091e7",
+      "DisplayName": "模拟实现strcpy和模拟实现strcat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
